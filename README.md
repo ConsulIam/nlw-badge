@@ -1,4 +1,4 @@
-# nlw-badge
+# Virtual badge
 
 Virtual badge created on the origin track at NLW Heat
 
@@ -55,6 +55,6 @@ If you don't have or don't want to use some social media, comment or delet the r
 
 ## Credits
 
-The base project was extracted from the **origin track at NLW Heat** 2021 designed by [Rocketseat] (https://rocketseat.com.br)
+The base project was extracted from the **origin track at NLW Heat** 2021 designed by [Rocketseat] https://rocketseat.com.br
 
-svg images files downloaded from [Icons8] (https://iconos8.es/icons)
+svg images files downloaded from https://iconos8.es/icons
